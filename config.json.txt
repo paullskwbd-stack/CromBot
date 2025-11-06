@@ -1,0 +1,8 @@
+{
+  "guild_id": 1431928513300136009,
+  "welcome_channel_id": 1436001801299169402,
+  "log_channel_id": 1436001963186847744,
+  "autorole_id": 1431928975487144051,
+  "minecraft_ip": "cromsmp.bybl.eu",
+  "minecraft_port": 41890
+}
